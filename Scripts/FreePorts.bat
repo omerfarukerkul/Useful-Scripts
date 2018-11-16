@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy bypass -File C:\Users\ofe\Desktop\Scripts\FreePorts.ps1

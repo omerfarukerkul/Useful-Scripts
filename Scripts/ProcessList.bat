@@ -1,0 +1,1 @@
+cmd /c start Powershell.exe -windowstyle hidden -executionpolicy bypass -File C:\Users\ofe\Desktop\Scripts\PowerShellTable.ps1

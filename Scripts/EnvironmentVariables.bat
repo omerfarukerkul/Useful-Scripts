@@ -1,0 +1,1 @@
+cmd /c start "C:\Program Files\AutoHotkey\autohotkey.exe" "C:\Users\ofe\Desktop\Scripts\EnvironmentVariables.ahk"
